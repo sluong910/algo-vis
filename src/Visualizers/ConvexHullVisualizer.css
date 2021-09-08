@@ -1,0 +1,17 @@
+.visual-container {
+    position: absolute;
+    background-color: black;
+    height: 550px;
+    width: 550px;
+    left: 20px;
+    top: 20px;
+}
+
+.points {
+    position: absolute;
+    background-color:white;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    display: inline-block;
+}
